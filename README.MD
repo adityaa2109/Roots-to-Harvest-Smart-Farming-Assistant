@@ -1,82 +1,76 @@
-## Roots to Harvest – Smart Farming Assistant
+## Roots to Harvest Platform
 
 ## Overview
-## Roots to Harvest is a smart agriculture platform designed to assist farmers with real-time insights and decision-making tools. It integrates weather forecasting, crop disease detection, market price tracking, and community support in a single system.
+Roots to Harvest is a smart agriculture web platform designed to help farmers make better decisions using technology. It provides features like weather forecasting, disease detection, market price tracking, community support, and farming tools — all in one dashboard.
 
-## FeaturesRoots to Harvest – Smart Farming Assistant
-Overview
-
-Roots to Harvest is a smart agriculture platform designed to assist farmers with real-time insights and decision-making tools. It integrates weather forecasting, crop disease detection, market price tracking, and community support in a single system.
-
-Features
-Weather Forecast & Irrigation Planning
-Crop Disease Detection (Image-based)
-Market Price Tracker (APMC data)
-Community & Labor Management
-Farming Tools (Fertilizer, Profit, Irrigation Calculators)
-Dark Mode UI
-
-Tech Stack
-Frontend: HTML, CSS, Tailwind CSS
-Backend (Logic): JavaScript
-Libraries: Chart.js, Font Awesome
-
-Project Structure
-├── index.html
-├── style.css
-├── script.js
-
-
-How to Run
-Download or clone the repository
-Open index.html in your browser
-Start exploring the features
-
-Objective
-To provide farmers with a digital platform that improves productivity, reduces risks, and enables smarter agricultural decisions.
-
-Future Enhancements
-AI-based disease detection
-Real-time API integration
-Mobile app version
-Multi-language support expansion
-
-Author
-Aditya Shinde
-Suhani Mahapatra
-Sharayu Patil
-
-## Weather Forecast & Irrigation Planning
-## Crop Disease Detection (Image-based)
-## Market Price Tracker (APMC data)
-## Community & Labor Management
-## Farming Tools (Fertilizer, Profit, Irrigation Calculators)
-## Dark Mode UI
+## Features
+Weather & Irrigation Planning
+5-day forecast
+Crop-based irrigation recommendations
+Disease Detection & Fertilizer Guide
+Upload crop images for disease analysis
+Treatment and fertilizer suggestions
+Market Price Tracker
+Live APMC price comparison
+Price trends with charts
+Smart selling recommendations
+Community & Labor Hub
+Post labor requirements
+Farmer discussion forum
+Farming Tools & Calculators
+Fertilizer calculator
+Irrigation planner
+Profit & loan calculator
+Crop calendar
+Dark Mode Support
+Multi-language Support (English, Hindi, Marathi)
 
 ## Tech Stack
-## Frontend: HTML, CSS, Tailwind CSS
-## Backend (Logic): JavaScript
-## Libraries: Chart.js, Font Awesome
+Frontend: HTML5, CSS3, JavaScript
+Frameworks/Libraries:
+Tailwind CSS
+Chart.js
+Font Awesome
 
 ## Project Structure
-## ├── index.html
-## ├── style.css
-## ├── script.js
+Roots-to-Harvest/
+│── index.html      # Main UI structure
+│── script.js       # Application logic
+│── styles.css      # Styling and themes
+│── README.md
 
+## How to Run the Project
+Download / Clone
+git clone https://github.com/your-username/roots-to-harvest.git
+Open Project
+Open folder in VS Code
+Run with Live Server
+OR
+Open index.html directly in browser
 
-## How to Run
-## Download or clone the repository
-## Open index.html in your browser
-## Start exploring the features
+## How It Works
+User opens the dashboard
+Selects different tabs:
+Weather → shows forecast & irrigation
+Disease → upload image for detection
+Market → view price trends
+Community → interact with farmers
+Tools → use calculators
+System uses mock data & simulations to demonstrate real-world scenarios
 
-## Objective
-## To provide farmers with a digital platform that improves productivity, reduces risks, and enables smarter agricultural decisions.
+## Data Source
+Currently uses mock data (simulated data) for:
+Weather
+Market prices
+Disease detection
 
-## Future Enhancements
-## AI-based disease detection
-## Real-time API integration
-## Mobile app version
-## Multi-language support expansion
+## Can be upgraded to real APIs in future.
+Future Enhancements
+Real-time weather API integration
+AI-based disease detection
+Backend (Node.js + MongoDB)
+Mobile app version
+IoT-based smart farming integration
 
 ## Author
 Aditya Shinde
