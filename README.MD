@@ -72,9 +72,3 @@ Backend (Node.js + MongoDB)
 Mobile app version
 IoT-based smart farming integration
 
-## Author
-Aditya Shinde
-
-Suhani Mahapatra
-
-Sharayu Patil
